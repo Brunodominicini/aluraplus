@@ -243,6 +243,8 @@ body {
 
 .paragrafo__final {
     padding: 0% 0% 1% 0%;
+    text-decoration: none;
+    
 }
 
 @media (max-width: 1200px) {
