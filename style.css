@@ -260,6 +260,6 @@ body {
         flex-direction: column;
     }
         .conteudo__final {
-        aling-itens: beseline;
+        flex-wrap: wrap;
     }
 }
