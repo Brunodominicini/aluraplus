@@ -250,6 +250,10 @@ body {
     .apresentacao {
         padding: 5%;
     }
+    
+    .apresentacao__conteudo {
+       width: auto;
+}
 
     .conteudo__titulo {
         font-size: 1.5rem;
@@ -258,7 +262,6 @@ body {
     .conteudo__texto {
         font-size: 2.0rem;
         width: auto;
-        align-itens: center;
 }
     
     .apresentacao__pagina__tres {
@@ -267,7 +270,6 @@ body {
     
     .apresentacao__pagina__quatro {
         width: auto;
-        align-itens: center;
     }
     
     .Titulo__livre {
@@ -279,6 +281,7 @@ body {
 
     .conteundo__paragrafo__cinco {
         font-size: 1.875rem;
+        width: auto;
     }
 
     .apresentacao__final {
