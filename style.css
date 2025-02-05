@@ -245,3 +245,18 @@ body {
     padding: 0% 0% 1% 0%;
 }
 
+@media (max-width: 1200px) {
+    .apresentacao {
+        padding: 5%;
+    }
+
+    .apresentacao__conteudo {
+        width: auto;
+    }
+    .Titulo__livre {
+        font-size: 1.875rem;
+    }
+       .apresentacao__pagina__cinco {
+        flex-direction: column;
+    }
+}
