@@ -259,6 +259,10 @@ body {
        .apresentacao__pagina__cinco {
         flex-direction: column;
     }
+
+    .conteundo__paragrafo__cinco {
+        font-size: 1.875rem;
+    }
         .conteudo__final {
         flex-wrap: wrap;
     }
