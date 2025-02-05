@@ -151,7 +151,7 @@ body {
     padding: 16px;
     text-decoration: none;
     text-align: center;
-    width: 30%;
+    width: 50%;
     font-family: var(--fonte-principal);
     font-size: 1.0rem;
     font-weight: 400;
@@ -250,10 +250,15 @@ body {
     
     .apresentacao__conteudo {
        width: auto;
+        margin: 10%;
 }
 
     .conteudo__titulo {
         font-size: 1.5rem;
+    }
+
+    .apresentacao__pagina__dois {
+        margin: 10%;
     }
 
     .conteudo__texto {
@@ -262,11 +267,13 @@ body {
 }
     
     .apresentacao__pagina__tres {
-        width: auto; 
+        width: auto;
+        margin: 10%;
 }
     
     .apresentacao__pagina__quatro {
         width: auto;
+        margin: 10%;
     }
     
     .Titulo__livre {
@@ -274,6 +281,7 @@ body {
     }
        .apresentacao__pagina__cinco {
         flex-direction: column;
+           margin: 10%;
     }
 
     .conteundo__paragrafo__cinco {
