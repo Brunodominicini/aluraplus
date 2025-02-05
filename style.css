@@ -263,7 +263,11 @@ body {
     .conteundo__paragrafo__cinco {
         font-size: 1.875rem;
     }
+
     .apresentacao__final {
+        margin-botton: 2%;
+    }    
+    .conteudo__final {
         flex-wrap: wrap;
     }
 }
