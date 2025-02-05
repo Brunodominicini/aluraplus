@@ -262,6 +262,7 @@ body {
     .conteudo__texto {
         font-size: 2.0rem;
         width: auto;
+        text-align: center;
 }
     
     .apresentacao__pagina__tres {
