@@ -52,8 +52,6 @@ body {
     font-size: 1.75rem;
     font-weight: 700;
     text-align: center;
-    width: 50%;
-    
 }
 
 .conteudo__links {
@@ -74,8 +72,6 @@ body {
     font-family: var(--fonte-principal);
     font-size: 1.0rem;
     font-weight: 400;
-    width: 50%;
-
 }
 
 .conteudo__link2 {
@@ -88,7 +84,6 @@ body {
     font-family: var(--fonte-principal);
     font-size: 1.0rem;
     font-weight: 400;
-    width: 50%;
 }
 
 .conteudo__links a:hover {
@@ -110,7 +105,6 @@ body {
     align-items: center;
     gap: 69px;
     padding: 10% 15%;
-    width: 50%;
 }
 
 .conteudo__pagina__dois {
@@ -126,7 +120,6 @@ body {
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
     font-weight: 700;
-    width: 50%;
 }
 
 .conteudo__paragrafo {
@@ -134,7 +127,6 @@ body {
     font-family: var(--fonte-principal);
     font-size: 1.0rem;
     font-weight: 400;
-    width: 50%;
 }
 
 .apresentacao__pagina__tres {
@@ -143,7 +135,6 @@ body {
     align-items: center;
     gap: 70px;
     padding: 5% 12%;
-    width: 50%;
 }
 
 .conteudo__pagina__tres {
@@ -160,7 +151,7 @@ body {
     padding: 16px;
     text-decoration: none;
     text-align: center;
-    width: 50%;
+    width: 30%;
     font-family: var(--fonte-principal);
     font-size: 1.0rem;
     font-weight: 400;
@@ -177,7 +168,6 @@ body {
     align-items: center;
     gap: 44px;
     padding: 5% 15%;
-    width: 50%;
 }
 
 .Titulo__livre {
@@ -195,7 +185,6 @@ body {
     text-align: center;
     display: flex;
     justify-content: space-between;
-    width: 50%;
 }
 
 .conteudo__pagina__cinco {
@@ -203,7 +192,6 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 16px;
-    width: 50%;
 }
 
 .conteundo__paragrafo__cinco {
@@ -236,7 +224,6 @@ body {
     font-weight: 400;
     text-align: center;
     margin-bottom: 3%;
-    widht: 50%;
 }
 
 .conteudo__final :hover {
