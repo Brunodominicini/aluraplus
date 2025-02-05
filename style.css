@@ -259,4 +259,8 @@ body {
        .apresentacao__pagina__cinco {
         flex-direction: column;
     }
+        .apresentacao__final {
+        flex-direction: column;
+        width: auto;
+    }
 }
