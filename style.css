@@ -255,18 +255,18 @@ body {
     }
 
     .apresentacao__pagina__dois {
-        padding: 10% 0% 10% 0%;
+         width: auto;
     }
 
     .apresentacao__pagina__tres {
-        padding: 10% 0% 10% 0%;
+        width: auto;
     }
     .conteudo__link3 {
         width: auto;
     }
 
     .apresentacao__pagina__quatro {
-        padding: 10% 0% 10% 0%;
+         width: auto;
     }
 
     .Titulo__livre {
@@ -274,7 +274,7 @@ body {
     }
 
     .apresentacao__pagina__cinco {
-        padding: 10% 0% 10% 0%;
+         width: auto;
         flex-direction: column;
     }
 
