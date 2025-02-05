@@ -250,7 +250,7 @@ body {
     
     .apresentacao__conteudo {
        width: auto;
-        margin: 10%;
+        padding: 10% 0% 10% 0%;
 }
 
     .conteudo__titulo {
@@ -258,7 +258,7 @@ body {
     }
 
     .apresentacao__pagina__dois {
-        margin: 10%;
+       padding: 10% 0% 10% 0%;
     }
 
     .conteudo__texto {
@@ -268,12 +268,12 @@ body {
     
     .apresentacao__pagina__tres {
         width: auto;
-        margin: 10%;
+        padding: 10% 0% 10% 0%;
 }
     
     .apresentacao__pagina__quatro {
         width: auto;
-        margin: 10%;
+      padding: 10% 0% 10% 0%;
     }
     
     .Titulo__livre {
@@ -281,7 +281,7 @@ body {
     }
        .apresentacao__pagina__cinco {
         flex-direction: column;
-           margin: 10%;
+           padding: 10% 0% 10% 0%;
     }
 
     .conteundo__paragrafo__cinco {
