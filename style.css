@@ -43,7 +43,7 @@ body {
     align-items: center;
     gap: 49px;
     padding: 10% 5%;
-    width: 30%;
+    width: 50%;
 }
 
 .conteudo__titulo {
@@ -113,7 +113,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 8px;
-    width: 30%;
+    width: 50%;
 
 }
 
@@ -143,7 +143,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 16px;
-    width: 30%;
+    width: 50%;
 }
 
 .conteudo__link3 {
@@ -179,7 +179,7 @@ body {
     font-family: var(--fonte-principal);
     font-weight: 700;
     text-align: center;
-    width: 30%;
+    width: 50%;
 }
 
 .apresentacao__pagina__cinco {
@@ -226,7 +226,7 @@ body {
     font-weight: 400;
     text-align: center;
     margin-bottom: 3%;
-    widht: 10%;
+    widht: 50%;
 }
 
 .conteudo__final :hover {
@@ -256,18 +256,18 @@ body {
     }
 
     .apresentacao__pagina__dois {
-         width: auto;
+         padding: 5%;
     }
 
     .apresentacao__pagina__tres {
-        width: auto;
+        padding: 5%;
     }
     .conteudo__link3 {
-        width: auto;
+        padding: 5%;
     }
 
     .apresentacao__pagina__quatro {
-         width: auto;
+         padding: 5%;
     }
 
     .Titulo__livre {
@@ -275,11 +275,11 @@ body {
     }
 
     .apresentacao__pagina__cinco {
-         width: auto;
+        padding: 5%;
         flex-direction: column;
     }
 
     .apresentacao__final {
-        width: auto;
+        padding: 5%;
     }
 }
