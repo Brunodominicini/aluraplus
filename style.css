@@ -239,11 +239,11 @@ body {
     font-size: 0.875rem;
     font-weight: 400;
     text-align: center;
+     text-decoration: none;
 }
 
 .paragrafo__final {
     padding: 0% 0% 1% 0%;
-    text-decoration: none;
     
 }
 
