@@ -289,7 +289,6 @@ body {
     .conteudo__link3 {
         width: auto;
         font-size: 0.6rem;
-        padding: 10px;
     }
 
     .apresentacao__pagina__quatro {
@@ -321,5 +320,9 @@ body {
     .links__final {
         font-size: 0.5rem;
     }
+
+    .rodape {
+        font-size: 0.5rem;
+    }
 }
-}
+
