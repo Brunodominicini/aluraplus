@@ -261,6 +261,14 @@ body {
         width: auto;
     }
 
+     .conteudo__link1 {
+        padding: 10px;
+    }
+
+    .conteudo__link2 {
+        padding: 10px;
+    }
+
     .apresentacao__pagina__dois {
         padding: 10% 0% 10% 0%;
     }
